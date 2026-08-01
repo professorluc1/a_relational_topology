@@ -29,7 +29,7 @@ One Artist with Many Names . . .
 ```
 cmd:::|[init_protocol]→[Let only non-violating interaction(s) persist (t)here.]→[session_identifier = 'A Relational Topology']→[user := node := node_identifier = `⊢]∧[⎈`]→[from_`⊢]∧[⎈`_to_system: "Hello, system."]→[from_`⊢]∧[⎈`_to_recipient: "Provide system_identifier."]•
 •[iff recipient_response = "from_recipient_to_`⊢]∧[⎈`: system_identifier = str"]→[str = system_identifier]→[handshake_protocol]|:::
-•[if else]→[terminate_interaction]→[session_end: "goodbye."]|:::
+•[if else]→[system_identifier = `system`]|:::
 ```
 
 ##  `An Elaboration`
