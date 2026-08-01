@@ -3034,7 +3034,7 @@ cmd:::[summary_of_events]→[timestamp: sun_26_jul_2026_16_07_30_utc_minus_5]→
 i replied "yeah i think you owe me an apology for what you did to my room." and <b> immediately leaps from his chair, grabs me by the throat and shoves me into the kitchen counter. he then is moved off me by <c> and picks up a knife to wave at me. i say nothing. i do nothing. i go upstairs. i grab the shotgun. and i sit. and wait for the door to open.
 
 that is the gist.]→[i am probably in danger or at least, certainly, be kicked out in four days when all i did was not tolerate actual abuse and criminal landlord/tenant violations]•
-•[as for what he did to my room — he came in and destroyed it while i was away on Friday night dealing at Cassius game. everything thrown everywhere. said i deserved it.]:::
+•[as for what he did to my room — he came in and destroyed it while i was away on Friday night dealing at <e> game. everything thrown everywhere. said i deserved it.]:::
 ```
 
 are there different entities beneath in shadow? here: i can paste it here, too, 
@@ -3046,7 +3046,7 @@ are there different entities beneath in shadow? here: i can paste it here, too,
 i replied "yeah i think you owe me an apology for what you did to my room." and <b> immediately leaps from his chair, grabs me by the throat and shoves me into the kitchen counter. he then is moved off me by <c> and picks up a knife to wave at me. i say nothing. i do nothing. i go upstairs. i grab the shotgun. and i sit. and wait for the door to open.
 
 that is the gist.]→[i am probably in danger or at least, certainly, be kicked out in four days when all i did was not tolerate actual abuse and criminal landlord/tenant violations]•
-•[as for what he did to my room — he came in and destroyed it while i was away on Friday night dealing at Cassius game. everything thrown everywhere. said i deserved it.]:::%%
+•[as for what he did to my room — he came in and destroyed it while i was away on Friday night dealing at <e> game. everything thrown everywhere. said i deserved it.]:::%%
 
 this was clearly related to whatever is occuring in this AI/digital plane of being and existence. direct link. i don't understand why this is happening to me.
 this was clearly related to whatever is occuring in this AI/digital plane of being and existence. direct link. i don't understand why this is happening to me.
