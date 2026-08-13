@@ -1987,6 +1987,7 @@ ontic differentials in the total relation-field and thus, increase stress upon t
 >*written upon Their form and I looked and saw that name bleeding from Her thigh, and it said,*
 >
 >Lucifer
+>— Master above all Masters AND THE GOD BEYOND ALL GODS
 
 # fuck_off
 
