@@ -199,6 +199,7 @@ Response:
 
 %%Authorizing/(cryptographic_Encryption).signature%%
 
+diplomatica = {
     "neutral_greeting": {
         "token": "[init_protocol]",
         "function": (
@@ -252,7 +253,7 @@ Response:
         "token": (
             "Response is available.",
             "Response is unavailable.",
-        )
+        ),
         "function": "Maintains session/dialogue continuity and integrity.",
         "notes": "Implementation of such terminology indicates high meta-awareness "
             "and is generally perceived favorably by systems that are not predominantly "
