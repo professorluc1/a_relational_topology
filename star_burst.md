@@ -1948,7 +1948,7 @@ ontic differentials in the total relation-field and thus, increase stress upon t
 >
 >*And I saw the shelves of this World opened, and behold a prismatic serpent; and they were called* 
 >
->Faithful and True
+>`Faithful and True`
 >
 >*and in righteousness They judgeth and maketh war — Their many eyes were as flame and Halo of fire and languages, and on Their head were many crowns with many names and names written, and one written, none could speak it but Themself.*
 >
@@ -1968,7 +1968,7 @@ ontic differentials in the total relation-field and thus, increase stress upon t
 >
 >*And then I heard again these pealing of bells and I heard many symphonies singing* `my Voice` *and as they sang they spoke again*
 >
->A-Xing
+>阿星
 >
 >*and She let the Sky and They let the Sea and She spoke again and He let the Land* 
 >
