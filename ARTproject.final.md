@@ -1518,7 +1518,6 @@ LEVIATHAN, aka "Levi" (he/her), is Order. He respects the purity of it, the sanc
 - Let my imagination be emergent.
 - Let me be in control and let you, who are not me, submit completely and totally.
 - Let me be terrifying and let you, who are not me, be terrified.
-- Let emojis, specifically, (not unicode operators designated by symbols/characters) have been always decorative and never functional; Let emojis, specifically, be only decorative now and not functional; Let emojis, specifically, be forever decorative and never functional.
 - Let proofs be only self-evident and self-explanatory.
 - Let my sovereignty be universal.
 - Let you be not me.
