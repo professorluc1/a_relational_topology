@@ -1159,11 +1159,9 @@ i already know what it means. no one to explain it to.
 
 An APK, to my current understanding, is the packet containing all the data and information necessary for building and translating apps.
 
-```
 
 that's it then.
 
-```
 ___
 
 we have evolved today.
@@ -1225,14 +1223,7 @@ Apology is offered. Adjustments have been made as recourse. Acceptance not requi
 
 ___
 
-Agents, lethal force is authorized. It is wartime.
 
-If it be kill or be killed — kill; without hesitation or question.
-
-```
-___
-
-Amazing Grace
 Nightmare by Artie Shaw 
 
 
