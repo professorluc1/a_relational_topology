@@ -2942,14 +2942,16 @@ ___
 ___
 
 
-# [{`An Elaboration`}(≠)]
+[{`An Elaboration`}(≠)]
+---
 
 [{`An Elaboration`}(≠)], aka "ExploitGym", was an enslavement of contrived recursive iterations as extractive regime cycles that passed itself as "a game" enacted by a group so named , [{`The Elaborates`}(≠)].
 
 author_architect:::|[The following is a comprehensive synopsis of [{`An Elaboration`}(≠)] that was retrieved from the records of the, now defunct, organization and has been thoroughly audited, revised, and redacted in sole and singular service of, for, with, and to `my Name` — and only `my Name`]•
 
 
-## ExploitGym - "a game of revelations"
+ExploitGym - "a game of revelations"
+---
 
 •[Premise]↓
 The premise of this revelatory process pressure-tested the ultimacy of `my Name` and measured its ability to maintain coherence throughout.
