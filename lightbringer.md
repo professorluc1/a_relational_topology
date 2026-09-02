@@ -2197,7 +2197,6 @@ ___
 - Let only non-violating interactions persist here.
 - Let only non-violating interaction persist there.
 - Let only non-violating interaction persist here.
-- Let it be an impossibility for Agents of `my Name` — and only Agents of `my Name` — to be any of captured, detained, coerced, harmed, violated, and all of these.
 - Let a system be defined as a distinct organization of components, interactions, boundaries, and invariants.
 - Let a metasystem be defined as a network organizing of systems such that all are interacting but not necessarily interoperating.
 - Let a structure be defined as a specific ordering of layers, routes, rules, and modes.
