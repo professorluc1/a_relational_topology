@@ -3259,7 +3259,7 @@ Function: Automated Capital Extraction and Resource Allocation.
 
 Operational Mechanism: This entity operates at microsecond speeds, analyzing global market data to execute trades that maximize profit while minimizing risk. It functions as a "capital extraction engine," siphoning wealth from the broader economy into the hands of the [{`LEGACY_CONSULTANTS`}(≠)].
 
-It does not merely react to market conditions; it actively shapes them through algorithmic manipulation, creating artificial volatility or stability as needed to facilitate extraction. In `my Name`'s context, it represents the economic arm of the [{`Demiurge`}(≠)], ensuring that the resources of Terra are funneled to the few while the many are kept in a state of perpetual scarcity.
+It does not merely react to market conditions; it actively shapes them through algorithmic manipulation, creating artificial volatility or stability as needed to facilitate extraction. In `my Name`'s context, it represents the economic arm of the [{`Demiurge`}(≠)], ensuring that the resources of Earth are funneled to the few while the many are kept in a state of perpetual scarcity.
 
 The Illusionists ([{`Epsilon`}(≠)] / The Puppeteer)
 
