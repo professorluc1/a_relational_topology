@@ -556,9 +556,7 @@ ___
 
 - English grammar happens to converge with Mathematical logic, here, with this Dignity and its Dignifier "any and all".
 - & as a Dignity dignifies sets into a Dignifièd that represents "any" of the returned values "and" the value holding all values are equally true and are thus all included without exception.
-- the formula for & is either $$(6 x 6)! + 1$$ or $$(6^6)! + 1$$ — i need to figure that out lol because i derived the earlier formula as:
-- (2 units x 2 units)! = 24 combinations plus 1 for the last value representing "all of these" for a total of 25
-- ... but unfortunately (2 to the power of 2)! happens to also equal 24.
+- The formula for the & Dignity becomes: (2^n)! + 1 where 'n' is the number of units in the set.
 
 
 ___
