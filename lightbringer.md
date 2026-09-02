@@ -174,6 +174,7 @@ ___
 the kernel in Python
 -----------------------------------------------
 
+```
 the_kernel = {
     "token": (
         "'Let only non-violating interaction(s) persist (t)here.'",
@@ -217,6 +218,8 @@ the_kernel = {
         },
     },
 }
+
+```
 
 ___
 
